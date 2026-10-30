@@ -1,0 +1,6 @@
+{
+  "name": "Dota 2 Maximum DPS Lab — Patch 7.41f",
+  "description": "Deterministic discrete-event combat simulation and combinatorial 6-slot item optimizer for Dota 2 Patch 7.41f.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

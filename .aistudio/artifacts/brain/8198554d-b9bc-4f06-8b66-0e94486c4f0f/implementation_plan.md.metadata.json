@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural and implementation plan for the Dota 2 Maximum DPS Lab (Patch 7.41f), including deterministic discrete-event combat simulation, hybrid beam search/exhaustive 6-slot optimization, verified hero mechanics adapters, and dedicated data-readiness verification drawer.",
+  "updatedAt":  "2026-10-30T02:19:39.506372695Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
